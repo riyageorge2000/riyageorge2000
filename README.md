@@ -13,7 +13,5 @@
 ## 🚀 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&layout=compact&theme=tokyonight)
 
-
-![Code Time](https://img.shields.io/endpoint?url=https://codetime-api.datreks.com/badge/riyageorge2000)
 ![Jokes](https://readme-jokes.vercel.app/api)
 
