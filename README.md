@@ -1,4 +1,4 @@
-### Hi there, I'm Riya 👋  
+**Hi there, I'm Riya 👋**
 
 
 💡 Passionate about **Artificial Intelligence**  
