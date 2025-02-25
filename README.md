@@ -4,7 +4,6 @@
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**   
 
----
 
 ## 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
@@ -13,7 +12,6 @@
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square) -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue) -->
 
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight)
@@ -27,8 +25,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&layout=compact&theme=tokyonight)
 
 
----
-
 ## 🛠 Tech & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -40,7 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
 
 <!-- ![Jokes](https://readme-jokes.vercel.app/api) -->
 
