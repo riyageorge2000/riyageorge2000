@@ -9,8 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorge2000)
 
+![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square) -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue) -->
+
 
 
 ## 📊 GitHub Stats  
