@@ -17,6 +17,9 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night)
+
+
 ## 🚀 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&layout=compact&theme=tokyonight)
 
