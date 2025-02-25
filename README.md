@@ -1,5 +1,6 @@
 ### Hi there, I'm Riya 👋  
 
+
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**   
 
@@ -20,7 +21,6 @@
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
-
 
 
 ## 🚀 Top Languages  
