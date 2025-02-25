@@ -18,9 +18,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
 
 
 
