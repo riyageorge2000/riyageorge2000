@@ -20,7 +20,7 @@
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=gruvbox)
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
