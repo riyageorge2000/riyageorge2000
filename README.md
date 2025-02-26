@@ -11,7 +11,7 @@
 
 
 ## 📊 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue&theme=synthwave)
+![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square) -->
 
 <!-- ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight) -->
@@ -20,7 +20,7 @@
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=highcontrast)
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
