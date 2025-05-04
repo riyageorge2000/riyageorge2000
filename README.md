@@ -2,7 +2,11 @@
 
 
 💡 Passionate about **Artificial Intelligence**  
-🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**   
+🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
+
+
+## 🌐 View my projects at:  
+[My GitHub Pages site](https://riyageorge2000.github.io/)
 
 
 ## 📫 How to reach me:  
