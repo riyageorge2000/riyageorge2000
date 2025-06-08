@@ -15,9 +15,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square) -->
 
-[GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight) -->
 
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) 
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
  [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
  
