@@ -1,5 +1,6 @@
 **Hi there, I'm Riya 👋**
 
+<img width="1536" height="1024" alt="techimage" src="https://github.com/user-attachments/assets/0db3d463-f36d-486e-926e-5c756fe7fa5e" />
 
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
