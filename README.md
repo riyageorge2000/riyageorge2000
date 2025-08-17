@@ -1,12 +1,12 @@
 # Hey, I'm Riya 👋
 
-<img alt="techimage2" src="https://github.com/user-attachments/assets/a7b8876a-989a-42f4-8b54-28774d363c5a" width="700" />
+<img alt="techimage2" src="https://github.com/user-attachments/assets/a7b8876a-989a-42f4-8b54-28774d363c5a" width="600" />
 
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorge2000)   
-🌐 View my projects at:  [My GitHub Pages site](https://riyageorge2000.github.io/)
+🌐 View my projects at:  [My GitHub Pages Site](https://riyageorge2000.github.io/)
 
 
 
