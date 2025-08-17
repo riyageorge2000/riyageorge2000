@@ -1,30 +1,17 @@
-**Hi there, I'm Riya 👋**
+# Hey, I'm Riya 👋
 
-<img width="1536" height="768" alt="techimage2" src="https://github.com/user-attachments/assets/a7b8876a-989a-42f4-8b54-28774d363c5a" />
+<img alt="techimage2" src="https://github.com/user-attachments/assets/a7b8876a-989a-42f4-8b54-28774d363c5a" width="700" />
 
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorge2000)   
 🌐 View my projects at:  [My GitHub Pages site](https://riyageorge2000.github.io/)
 
 
-## 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorge2000)
 
 
-## 📊 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square) -->
-
-<!-- ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight) -->
-
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
-  <!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight&no-bg=true&no-frame=false&column=4)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight) -->
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=tokyonight) 
-
-
+## 💻 Tech Stack: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -49,7 +36,22 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E4C6D?style=flat-square)
 ![Label Studio](https://img.shields.io/badge/-Label%20Studio-9146FF?style=flat-square)
 
+## 📊 GitHub Stats:  
+![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
 
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight)
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=tokyonight) -->
 <!-- ![Jokes](https://readme-jokes.vercel.app/api) -->
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
