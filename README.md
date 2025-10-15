@@ -37,9 +37,9 @@
 ![Label Studio](https://img.shields.io/badge/-Label%20Studio-9146FF?style=flat-square)
 
 ## 📊 GitHub Stats:  
-![Profile Views](https://komarev.com/ghpvc/?username=riyageorgek&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=riyageorgek&color=blue)
 
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square)
+ ![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square)
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorgek&show_icons=true&theme=tokyonight) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorgek&theme=tokyo-night) -->
 
