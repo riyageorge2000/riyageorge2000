@@ -4,9 +4,9 @@
 
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorge2000) 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorge2000)   
-🌐 View my projects at:  [My GitHub Pages Site](https://riyageorge2000.github.io/)
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorgek) 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorgek)   
+🌐 View my projects at:  [My GitHub Pages Site](https://riyageorgek.github.io/)
 
 
 
@@ -37,19 +37,19 @@
 ![Label Studio](https://img.shields.io/badge/-Label%20Studio-9146FF?style=flat-square)
 
 ## 📊 GitHub Stats:  
-![Profile Views](https://komarev.com/ghpvc/?username=riyageorge2000&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=riyageorgek&color=blue)
 
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorge2000?style=flat-square)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorge2000&show_icons=true&theme=tokyonight) 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorge2000&theme=tokyo-night) -->
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorgek&show_icons=true&theme=tokyonight) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorgek&theme=tokyo-night) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorgek&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorge2000&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorgek&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorge2000&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorgek&theme=tokyonight)
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorge2000&theme=tokyonight) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorgek&theme=tokyonight) -->
 <!-- ![Jokes](https://readme-jokes.vercel.app/api) -->
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
